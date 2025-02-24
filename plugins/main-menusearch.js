@@ -24,7 +24,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
 'buscador': 'Busquedas',
 }
-let img = 'https://files.catbox.moe/w3s79j.jpg'
+let img = 'https://i.ibb.co/SwdMGDfY/file.jpg'
 
   try {
           // DEFAULT MENU
