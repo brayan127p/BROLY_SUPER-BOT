@@ -9,7 +9,7 @@ let ff = `🎩 *M E N U - F F*\n\n`
     ff += `🌆 ${usedPrefix} topff\n`
     ff += `${textbot}`
 
-let img = 'https://files.catbox.moe/l6jzeo.jpeg';
+let img = 'https://i.ibb.co/SwdMGDfY/file.jpg';
 
 conn.sendMessage(m.chat, { image: { url: img }, caption: ff }, { quoted: fkontak });
 m.react('🔫');
