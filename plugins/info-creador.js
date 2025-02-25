@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
     // VCARD
     let list = [{
-        displayName: "BRP-HOST🎩",
+        displayName: "BRAYAN🎩",
         vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: BRP-HOST ofc🍭\nitem1.TEL;waid=526641804242:526641804242\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; México;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
