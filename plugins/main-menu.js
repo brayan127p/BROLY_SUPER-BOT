@@ -25,7 +25,7 @@ let tags = {
   'logos': '「 LOGOS - EDITS 」🍨',  
 }
 
-const vid = ['https://i.ibb.co/SwdMGDfY/file.jpg', 'https://i.ibb.co/SwdMGDfY/file.jpg]
+const vid = ['https://i.ibb.co/SwdMGDfY/file.jpg', 'https://i.ibb.co/SwdMGDfY/file.jpg"]
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
