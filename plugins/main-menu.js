@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
 import { xpRange } from '../lib/levelling.js'
 
 let tags = {
-  'crow': '「 *`MENUS NEKOBOT`* 」👑',
+  'crow': '「 *`MENUS ZENOBOT`* 」👑',
   'main': '「 MAIN - PRINCIPAL 」🍨',
   'teclado': '「 TECLADO - KEYBOARD 」🍨',
   'buscador': '「 BUSQUEDAS - SEARCH 」🍨',
@@ -25,7 +25,7 @@ let tags = {
   'logos': '「 LOGOS - EDITS 」🍨',  
 }
 
-const vid = ['https://i.ibb.co/SwdMGDfY/file.jpg', 'https://i.ibb.co/SwdMGDfY/file.jpg"]
+const vid = ['https://files.catbox.moe/zjbqli.mp4', 'https://files.catbox.moe/zjbqli.mp4"]
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
@@ -41,7 +41,7 @@ const defaultMenu = {
 ╚━━━━━━━━━━━━━━
 %readmore
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐔𝐒𝐄𝐑⊰*
-✧  🤖 *Bot:* NEKOBOT-RP
+✧  🤖 *Bot:* ZENOBOT-RP
 ✦  🔱 *Modo:* Privado VIP 
 ✧  ✨ *Baileys:* Multi Device
 ✦  🪐 *Tiempo Activo:* %muptime
