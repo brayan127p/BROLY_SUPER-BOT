@@ -8,10 +8,10 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
-// Staff De NEKOBOT
+// Staff De ZENOBOT
 global.owner = [
    ['5216641804242', 'Creador BRAYAN💛', true],
-   ['5212731595017', 'NEKOBOT Soporte', true],
+   ['5212731595017', 'ZENOBOT Soporte', true],
    ['584148256527', 'Dev Diomar', true],
    ['584120346669', 'Dev ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
    ['584241836217', 'Dev Prak', true],
