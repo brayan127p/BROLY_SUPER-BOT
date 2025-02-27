@@ -31,14 +31,14 @@ global.prems = ['573215751237']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '【✧】NEKO𝐁𝐨𝐭-RP࿐'
-global.botname = '(✦◠‿◠)NEKO𝑩𝒐𝒕-RP'
-global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ NEKO𝑩𝒐𝒕 - 𝑺.𝑪.𝑨 ୭'
+global.packname = '【✧】ZENO𝐁𝐨𝐭-RP࿐'
+global.botname = '(✦◠‿◠)ZENO𝑩𝒐𝒕-RP'
+global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ🍨★ ׄ ꒱ ZENO𝑩𝒐𝒕 - 𝑺.𝑪.𝑨 ୭'
 global.author = '(⁎˃ᴗ˂⁎)MODE RP BRAYAN𓆪'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ s𝗍ᥲrᥴ᥆rᥱ-𝗍ᥱᥲm'
 global.espera = '✰ 𝐄𝐬𝐩𝐞𝐫𝐚 𝐔𝐧 𝐌𝐨𝐦𝐞𝐧𝐭𝐨, 𝐄𝐬𝐭𝐚𝐦𝐨𝐬 𝐄𝐧𝐯𝐢𝐚𝐧𝐝𝐨 𝐒𝐮 𝐏𝐞𝐝𝐢𝐝𝐨 (✿◠‿◠)'
-global.namebot = 'nekobot-RP'
-global.textbot = `「 🔱 NEKOBOT - OFICIAL🔱 」`
+global.namebot = 'zenobot-RP'
+global.textbot = `「 🔱 ZENOBOT - OFICIAL🔱 」`
 global.vs = '2.1.0'
 global.publi = '✰𝐒𝐢𝐠𝐮𝐞 𝐄𝐥 𝐂𝐚𝐧𝐚𝐥👇'
 
