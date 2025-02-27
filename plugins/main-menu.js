@@ -8,7 +8,7 @@ let tags = {
   'main': '「 MAIN - PRINCIPAL 」🍨',
   'teclado': '「 TECLADO - KEYBOARD 」🍨',
   'buscador': '「 BUSQUEDAS - SEARCH 」🍨',
-  'fun': '「 JUEGOS - GAMES 」🍨',
+  'fun': '「 JUEGOS - GAMES 」🍨', 
   'serbot': '「 SUBBOTS - JADIBOTS 」🍨',
   'rpg': '「 RPG - ROLLGAME 」🍨',
   'gacha': '「 ROLLWAIFU - WAIFU 」🍨',
@@ -25,7 +25,7 @@ let tags = {
   'logos': '「 LOGOS - EDITS 」🍨',  
 }
 
-const vid = ['https://files.catbox.moe/zjbqli.mp4', 'https://files.catbox.moe/zjbqli.mp4"]
+const vid = ['https://files.catbox.moe/zjbqli.mp4', 'https://files.catbox.moe/zjbqli.mp4']
 
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
